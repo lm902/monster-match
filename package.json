@@ -22,5 +22,9 @@
     "babel-preset-expo": "~8.0.0",
     "typescript": "~3.6.3"
   },
-  "private": true
+  "private": true,
+  "name": "monster-match",
+  "author": "lm902",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/lm902/monster-match.git"
 }
